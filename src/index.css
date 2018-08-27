@@ -15,13 +15,9 @@
       100ms czas trwania
    */
   transition: all ease-in 100ms;
-  ..ka
-/* :hover to taka specjalna klasa ktora jest wlaczana jak sie myszka najedzie na ten elemet */czuszkaTytul:hover {
-
-  transform: rotateX(1X0deg);
-);
-  color: red;
-
-.
 }
-;
+/* :hover to taka specjalna klasa ktora jest wlaczana jak sie myszka najedzie na ten elemet */
+.kaczuszkaTytul:hover {
+  transform: rotateX(150deg);
+  color: red;
+}
