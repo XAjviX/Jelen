@@ -1,4 +1,4 @@
-.zegar {
+arczy :p.zegar {
   font-size: 80px;
   /* color: rgb(122,122,122) */
   color: rgb(122, 122, 122);
@@ -26,4 +26,12 @@
 .kaczuszkaTytul:hover {
   transform: rotateX(150deg);
   color: red;
+}
+
+.obrazekSarna {
+  transition: all ease-in 500ms;
+}
+
+.rozmazanaSarna {
+  filter: blur(5px);
 }
