@@ -1,12 +1,18 @@
+.zegar {
+  font-size: 80px;
+  /* color: rgb(122,122,122) */
+  color: rgb(122, 122, 122);
+}
+
 .kaczuszkaTytul {
   /* to jest margines tagu z taką klasą */
-  margin-left: 100px;
+  margin-left: 250px;
 
   /* kolor tekstu */
   color: green;
 
   /* Jakas transformacja tutaj robie rotacje wg os  X o 0 st9 */
-  transform: rotateX(0deg);
+  transform: rotateX(7deg);
 
   /* to jest przygotowanie animacji czyli 
     transition: 
