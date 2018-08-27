@@ -1,0 +1,27 @@
+.kaczuszkaTytul {
+  /* to jest margines tagu z taką klasą */
+  margin-left: 100px;
+
+  /* kolor tekstu */
+  color: green;
+
+  /* Jakas transformacja tutaj robie rotacje wg os  X o 0 st9 */
+  transform: rotateX(0deg);
+
+  /* to jest przygotowanie animacji czyli 
+    transition: 
+      all = wszystkie zmiany
+      ease-in takie cos ;p
+      100ms czas trwania
+   */
+  transition: all ease-in 100ms;
+  ..ka
+/* :hover to taka specjalna klasa ktora jest wlaczana jak sie myszka najedzie na ten elemet */czuszkaTytul:hover {
+
+  transform: rotateX(1X0deg);
+);
+  color: red;
+
+.
+}
+;
